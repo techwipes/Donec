@@ -82,8 +82,9 @@ body {
 }
 
 .ellipse {
-	 background: url("../img/Ellipse_1_copy.png") top right no-repeat;
-	 max-width: 1190px;
+  background: url("../img/Ellipse_1_copy.png") top right no-repeat;
+  max-width: 1190px;
+  
   
 }
 .title {
@@ -97,8 +98,8 @@ body {
   letter-spacing: 2.8px;
 }
 .sub-title {
-	text-align: center;
-	padding: 0px 262px 63px 205px;
+  text-align: center;
+  padding: 0px 262px 63px 205px;
   color: #273d46;
   font-family: "Times New Roman PSMT";
   font-size: 36px;
@@ -106,14 +107,15 @@ body {
   line-height: 50px;
 }
 .light-man-img {
-	text-align: center;
-	margin: 0 202px 97px 147px;
+  text-align: center;
+  margin: 0 202px 87px 147px;
   box-shadow: 0 15px 65px rgba(15, 16, 16, 0.15);
   border: 10px solid white;
 }
 .text-box {
 }
 .info-top {
+  padding: 0 262px 40px 192px;
   opacity: 0.8;
   color: #273d46;
   font-family: "Times New Roman PSMT";
@@ -122,6 +124,7 @@ body {
   line-height: 40px;
 }
 .info-bot {
+  padding: 0 262px 0 192px;
   opacity: 0.8;
   color: #273d46;
   font-family: "Times New Roman PSMT";
